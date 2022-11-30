@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: consult-debt
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/microservice_consult_debt
+server:
+  port: 8082
